@@ -11,7 +11,7 @@ Ethernet                    Realtek RTL8168/8111/8112 Gigabit Ethernet Controlle
 Wireless network adapter    Atheros AR956X <br>
 
 ### MAKE SURE YOU BACKUP YOUR EFI 1ST!
-### DO IT WITH YOUR ON RISK!
+### DO IT WITH YOUR OWN RISK!
 
 ### WORKING?
 
