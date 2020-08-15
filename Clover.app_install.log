@@ -1,0 +1,25 @@
+
+Clover Installer r5117 (a4ac6daf9) (v1.1.4), 2020-05-14 09:50:26
+macOS Version 10.14 (Build 18A391)
+SELF = /Applications/Clover.app/Contents/MacOS/CloverDaemonNew
+Backup made at:
+/Users/arron2501/Desktop/CloverBackUp/ADATA SU800 Media/r4674_2020-05-14_09-50-19/EFI.
+Target volume: /Volumes/EFI
+BSD Name:      disk0s1
+Filesystem:    FAT32
+Is internal:   true
+Is writable:   true
+
+Installing/Updating Clover:
++ ../BOOT/BOOTX64.efi
++ ../CLOVER/CLOVERX64.efi
+
+Installing/Updating drivers:
+
+Installing/Updating tools:
++ ../tools/Shell64.efi
++ ../tools/bdmesg.efi
++ ../tools/Shell64U.efi
++ ../tools/Shell32.efi
+
+Installing/Updating docs:
