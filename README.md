@@ -37,3 +37,9 @@ you can download from here from https://github.com/CloverHackyColor/CloverBootlo
 If someone want to improve this EFI, it will be great
 
 Thankyou!
+
+##Support
+
+if you like my work, please support me in <br>
+https://www.buymeacoffee.com/iamelse <br>
+https://saweria.co/iamelse
